@@ -1,0 +1,6 @@
+name: Core
+version: ${project.version}
+main: com.exortions.bedwarsreloaded.core.core.Core
+api-version: 1.16
+authors: [ Exortions ]
+description: Core library for BedwarsReloaded.
